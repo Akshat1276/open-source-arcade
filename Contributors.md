@@ -7,6 +7,7 @@ Akhil Punia
 Noble Mittal
 Suyash Rahul
 Bhoomi Bonal
+Bhavy Ratnman 
 Akshat Yadav
 Ujjwal Arya
 Somil Jain
@@ -51,4 +52,6 @@ Prachi Bhagat
 Archit Modi
 Lakshita
 Saurabh Rana
+Tanay Paliwal
 Omprakash Saran
+
